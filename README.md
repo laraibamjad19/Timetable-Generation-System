@@ -1,4 +1,9 @@
 # Timetable-Management-System
+Timetable management system is implemented which will help students aswell as the faculty members to easily 
+Generate timetable according to their registered courses. 
+
+The functionalities along with the guidelines for the usage of this system are stated below: 
+
 
 Open the given SQL file using SQL Server Management Studio.
 Open the project folder in NetBeans.
